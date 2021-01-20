@@ -1,0 +1,20 @@
+{
+		"EndPoint": "/pet/findByStatus",
+		"Method": "GET",
+		"request": {
+			"urlParameter": {	
+				"status" : "available"
+				},
+			"resources": {
+				},
+			"headers": {
+				}
+			
+		},
+		"ExpectedResponse": {
+			"ResponseBodyFile": "GetPetByStatus.Json",
+			"StatusCode": 200
+			
+			
+		}
+}

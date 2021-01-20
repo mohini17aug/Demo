@@ -1,0 +1,21 @@
+{
+		"EndPoint": "/pet",
+		"Method": "POST",
+		"request": {
+			"urlParameter": {	
+				},
+			"resources": {
+				},
+			"headers": {
+			"Content-Type" :"application/json"
+				},
+				"requestBodyFile": "CreatePet_RequestBody.json"
+			
+		},
+		"ExpectedResponse": {
+			"ResponseBodyFile": "CreatePet.Json",
+			"StatusCode": 200
+			
+			
+		}
+}

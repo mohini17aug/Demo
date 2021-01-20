@@ -1,0 +1,39 @@
+>>>>>>>>>>>>>>>>>>Starting Test CASE: ADD_SONY_VAIO 	 Description Adding sony vaio in cart
+INFP 	Application launched: https://www.demoblaze.com
+INFP 	LAPTOP link clicked
+INFP 	Sony vaio i5 clicked
+INFP 	Add to cart clicked
+INFP 	Accepted the alert dialog box
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>>>>>>Starting Test CASE: ADD_DELL 	 Description ADDING dell in cart
+INFP 	Home button clicked
+INFP 	LAPTOP link clicked
+INFP 	Dell i7 8gb clicked
+INFP 	Add to cart clicked
+INFP 	Accepted the alert dialog box
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>>>>>>Starting Test CASE: Delete_Dell 	 Description Deleting Dell from cart
+INFP 	CART button clicked
+INFP 	Delete button clicked for Dell i7 8gb
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>>>>>>Starting Test CASE: Place_Order 	 Description Placing the Order
+INFP 	Place Order button clicked
+INFP 	Name set as demo
+INFP 	Country set as India
+INFP 	City set as Delhi
+INFP 	Card set as 123456789
+INFP 	Month set as Jan
+INFP 	Year set as 2021
+INFP 	Purchase button clicked
+INFP 	Purchase made with id: 7234492
+PASS 	AMOUNT is as expected 790 USD
+INFP 	OK button clicked
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+

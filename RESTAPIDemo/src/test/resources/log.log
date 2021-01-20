@@ -1,0 +1,28 @@
+>>>>>>>>>>>>>>>>>>Starting Test CASE: GETPetByStatus 	 Description Getting all the available pets
+INFP 	GET Operation performed on https://petstore.swagger.io/v2/pet/findByStatus
+PASS 	Actual and Expected status matched
+FAIL 	Comparision failed 
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>>>>>>Starting Test CASE: POSTAPet 	 Description Posting a pet
+INFP 	POST Operation performed on https://petstore.swagger.io/v2/pet
+PASS 	Actual and Expected status matched
+PASS 	Actual and expected response MATCHED
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>>>>>>Starting Test CASE: UpdateAPet 	 Description Updating the posted
+INFP 	POST Operation performed on https://petstore.swagger.io/v2/pet/9222968140491043201
+PASS 	Actual and Expected status matched
+PASS 	Actual and expected response MATCHED
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>>>>>>Starting Test CASE: DeleteAPet 	 Description Deleting the created PET
+INFP 	DELETE Operation performed on https://petstore.swagger.io/v2/pet/9222968140491043201
+PASS 	Actual and Expected status matched
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+

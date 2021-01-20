@@ -1,0 +1,22 @@
+{
+		"EndPoint": "/pet",
+		"Method": "POST",
+		"request": {
+			"urlParameter": {	
+				},
+			"resources": {
+				},
+			"headers": {
+			"Content-Type": "application/x-www-form-urlencoded",
+			"Accept" :"application/json"
+				},
+				"requestBodyFile": "UpdatePet_RequestBody.json"
+			
+		},
+		"ExpectedResponse": {
+			"ResponseBodyFile": "UpdatePet.Json",
+			"StatusCode": 200
+			
+			
+		}
+}

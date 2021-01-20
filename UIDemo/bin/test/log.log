@@ -1,0 +1,25 @@
+>>>>>>>>>>>>>>>>>>Starting Test CASE: ADD_SONY_VAIO 	 Description Adding sony vaio in cart
+INFP 	LAPTOP link clicked
+INFP 	Sony vaio i5 clicked
+INFP 	Add to cart clicked
+INFP 	Accepted the alert dialog box
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>>>>>>Starting Test CASE: ADD_DELL 	 Description ADDING dell in cart
+INFP 	LAPTOP link clicked
+INFP 	Dell i7 8gb clicked
+INFP 	Add to cart clicked
+INFP 	Accepted the alert dialog box
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>>>>>>Starting Test CASE: Delete_Dell 	 Description Deleting Dell from cart
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>>>>>>Starting Test CASE: Place_Order 	 Description Placing the Order
+PASS 	AMOUNT is as expected 790 USD
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
